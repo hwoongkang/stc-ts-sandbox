@@ -1,0 +1,20 @@
+{
+  "name": "ts-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "start": "^5.1.0",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "tsc": "^2.0.4"
+  }
+}
